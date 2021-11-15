@@ -6,3 +6,4 @@ layout: post
 permalink: /
 ---
 
+This is a index page.
