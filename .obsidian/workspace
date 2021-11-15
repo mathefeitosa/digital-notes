@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "cdd257c105a6ce60",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ac9373b2fad0d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Heráclito de Éfeso.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d9aa4d4a4f307ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac3c01e6bf70215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb409204f289203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cea4f89b54db1f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "9267f1fb50f91c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9120d7bf22cb84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0fcc9cba84cf39f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Heráclito de Éfeso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93ac9373b2fad0d1",
+  "lastOpenFiles": [
+    "_notes/Heráclito de Éfeso.md",
+    "_notes/Filosofia.md",
+    "_notes/Diógenes Laércio.md",
+    "_notes/Configuração - Espanso.md",
+    "_notes/FAST.md",
+    "_notes/Aprendendo Alemão.md",
+    "_notes/Aitía.md",
+    "dates.md",
+    "index.md",
+    "_notes/Conteúdos - Medcel.md"
+  ]
+}
