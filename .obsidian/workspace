@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "preview"
+            "file": "_notes/Actinomicose.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_notes/Actinomicose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "93ac9373b2fad0d1",
   "lastOpenFiles": [
-    "index.md",
-    "_templates/Frontmatter.md",
-    "dates.md",
-    "_notes/Heráclito de Éfeso.md",
+    "_notes/Actinomicose.md",
+    "_notes/Homeomeria.md",
+    "_notes/História Essencial da Filosofia.md",
     "_notes/Filosofia.md",
-    "_notes/Diógenes Laércio.md",
-    "_notes/Configuração - Espanso.md",
-    "_notes/FAST.md",
-    "_notes/Aprendendo Alemão.md",
+    "_notes/Filósofos Pré-socráticos.md",
+    "_notes/Dor Lombar.md",
+    "_notes/Cosmogonia.md",
+    "_notes/Arkhé.md",
+    "_notes/Aprendendo Esperanto.md",
     "_notes/Aitía.md"
   ]
 }
