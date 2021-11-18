@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Actinomicose.md",
+            "file": "_templates/Frontmatter.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 135
   },
   "right": {
     "id": "9267f1fb50f91c36",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Actinomicose.md",
+                "file": "_templates/Frontmatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "93ac9373b2fad0d1",
   "lastOpenFiles": [
+    "_templates/Frontmatter.md",
+    "_notes/Untitled.md",
     "_notes/Actinomicose.md",
     "_notes/Homeomeria.md",
     "_notes/História Essencial da Filosofia.md",
@@ -95,8 +97,6 @@
     "_notes/Filósofos Pré-socráticos.md",
     "_notes/Dor Lombar.md",
     "_notes/Cosmogonia.md",
-    "_notes/Arkhé.md",
-    "_notes/Aprendendo Esperanto.md",
-    "_notes/Aitía.md"
+    "_notes/Arkhé.md"
   ]
 }
