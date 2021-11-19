@@ -12,7 +12,20 @@
             "file": "_notes/DERMATOLOGIA.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "6e235348cf0b255b"
+      },
+      {
+        "id": "90ced72a4f208156",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/DERMATOLOGIA.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6e235348cf0b255b"
       }
     ],
     "direction": "vertical"
@@ -91,8 +104,8 @@
   "active": "a02da50d1dd02880",
   "lastOpenFiles": [
     "_notes/DERMATOLOGIA.md",
-    "_notes/DIABETES.md",
     "_notes/Untitled 1.md",
+    "_notes/DIABETES.md",
     "_templates/Frontmatter.md",
     "about.md",
     "dates.md",
