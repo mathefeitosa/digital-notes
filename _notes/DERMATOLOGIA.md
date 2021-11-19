@@ -1,7 +1,7 @@
 ---
 title: DERMATOLOGIA
 tags: [DERMATOLOGIA, MEDICINA]
-toc: false
+toc: true
 season: winter
 ---
 

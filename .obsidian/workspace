@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/DIABETES.md",
+                "file": "_notes/DERMATOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af010a0f6b7552e8",
+  "active": "0d7b3a3b7878b670",
   "lastOpenFiles": [
-    "_notes/DIABETES.md",
     "_notes/DERMATOLOGIA.md",
+    "_notes/DIABETES.md",
     "_notes/Untitled 1.md",
     "_templates/Frontmatter.md",
     "about.md",

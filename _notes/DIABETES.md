@@ -1,7 +1,7 @@
 ---
 title: TÍTULO
 tags: [TAG1, TAG2]
-toc: true
+toc: false
 season: winter
 ---
 
