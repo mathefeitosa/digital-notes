@@ -1,6 +1,6 @@
 ---
-title: TÍTULO
-tags: [TAG1, TAG2]
+title: DIABETES
+tags: [DIABETES, DM2, MEDICINA]
 toc: false
 season: winter
 ---
