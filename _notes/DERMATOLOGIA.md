@@ -138,14 +138,3 @@ EXTRAVASAMENTO SANGUÍNEO, EM GERAL DÉRMICO, MENOS FREQUENTEMENTE HIPODÉRMICO,
 - CICATRIZ
 
 ![../assets/img/Pasted image 20211118212647.png](../assets/img/Pasted%20image%2020211118212647.png)
-
-# Petéquias
-- Não somem a digitopressão -> não são de origem vascular
-
-## Casos Clínicos
-Hipóteses:
-- Dermatite de contato (alergia)
-- Lupus?
-- Farmacodermia?
-	- Início de uso de hidroxicloroquina
-
