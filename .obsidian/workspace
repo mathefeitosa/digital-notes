@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/DERMATOLOGIA.md",
+            "file": "_notes/O HOMEM QUE CONFUNDIU SUA MULHER COM UM CHAPÉU - OLIVER SACKS.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/DERMATOLOGIA.md",
+            "file": "_notes/O HOMEM QUE CONFUNDIU SUA MULHER COM UM CHAPÉU - OLIVER SACKS.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "season",
+                "query": "BÍBLIA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/DERMATOLOGIA.md",
+                "file": "_notes/O HOMEM QUE CONFUNDIU SUA MULHER COM UM CHAPÉU - OLIVER SACKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a02da50d1dd02880",
   "lastOpenFiles": [
-    "_notes/DERMATOLOGIA.md",
-    "_notes/Untitled 1.md",
-    "_notes/DIABETES.md",
-    "_templates/Frontmatter.md",
-    "about.md",
-    "dates.md",
-    "_notes/Untitled.md",
-    "_notes/Actinomicose.md",
-    "_notes/Homeomeria.md",
-    "_notes/História Essencial da Filosofia.md"
+    "_notes/O HOMEM QUE CONFUNDIU SUA MULHER COM UM CHAPÉU - OLIVER SACKS.md",
+    "_notes/DICIONÁRIO PESSOAL.md",
+    "_notes/Livros Para Ler.md",
+    "_notes/OBRAS SOBRE SHERLOCK HOLMES - ARTHUR CONAN DOYLE.md",
+    "_notes/PODRE DE MIMADOS - THEODORE DALRYMPLE.md",
+    "_notes/Test page to see how the raw markdown is rendered.md",
+    "_notes/MANIFESTO COMUNISTA - KARL MARX E FRIEDRICH ENGELS.md",
+    "_notes/HISTORIA ESSENCIAL DA FILOSOFIA - PAULO GHIRALDELLI JUNIOR.md",
+    "_notes/CRIACIONISMO VERDADE OU MITO - KEN HAM.md",
+    "notes/COMECE PELO PORQUE - SIMON SINEK.md"
   ]
 }

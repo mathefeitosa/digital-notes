@@ -16,7 +16,7 @@ Publicação: [notes/2011](notes/2011.md)
 - Os cientistas acreditam que todas as coisas vivas remetem a um projeto pela sua perfeição, porém não acreditam que o projetista é Deus.
 - Dawkins acredita que a própria evolução é o projetista, pois a evolução se desenrolaria através de processos de sobrevivência não-aleatórios.
 - Para o Dr. Gary Parker, a seleção natural não parece melhorar as chances de sobrevivência de uma determinada espécie. Isso pode ser observado através da análise dos animais que foram extintos, onde estes tiveram as mesmas chances de sobrevivência, em seu tempo, que os seres vivos atuais. Disso, ele conclui que ao invés do processo de seleção natural levar ao melhoramento da espécie ele só ajudaria a espécie a manter-se viva e a preservar as suas características. Ainda acrescenta que a seleção natural ocorre porque cada espécie foi criada com uma alta variedade, que é suficiente para se adaptar as diversidades e multiplicar-se enchendo a terra.
-- Deus criou todos os seres vivos e, ao criar, disse que a reprodução seria de acordo com sua própria espécie. Penso eu aqui que a  existência de macho e fêmea em algumas espécies e em outras não existir essa binariedade também se encaixa na [[notes/Bíblia]].
+- Deus criou todos os seres vivos e, ao criar, disse que a reprodução seria de acordo com sua própria espécie. Penso eu aqui que a  existência de macho e fêmea em algumas espécies e em outras não existir essa binariedade também se encaixa na [[../notes/BÍBLIA]].
 
 ## A Seleção Natural Gera Projeto?
 - Ainda não existem (2011) observações de espécies que sofreram mutações e se transformaram em outras completamente diferentes, com informações genéticas que não existiam previamente - _Por exemplo, apesar de muitas declarações contrárias, não provadas, por parte dos evolucionistas, ninguém observou nem documentou a mutaçáo de um réptil em ave. O exemplo clássico alardeado por alguns evolucionistas como de uma criatura “em processo de mutação”, Archaeopteryx (arqueopterix), é rejeitado atualmente por muitos evolucionistas._. Disso, podemos analisar que até agora só foram encontradas evidências de animais que modificam informações existentes através de mutações mas nenhuma mutação que criasse uma nova informação^[L. P. Lester e R. G. Bohlin, The Natural Limits to Biological Change. Dallas: Probe Books, 
@@ -122,6 +122,7 @@ Porque em seis dias fez o Senhor os céus e a terra, o mar e tudo que neles há,
 9. Métodos radiométricos de datação não provam milhões de anos.^[Para os resultados do Projeto RATE, veja Larry Vardiman, Andrew Snelling e Eugene Chaffin, eds., Radioisitopes and the Age ofthe Earth, vol. 2, Green Forest, Arkansas: Master Books, 2005; e Don DeYoung, Thousands... NotBillions. Green Forest, Arkansas: Master Books, 2005.]
 	- Foram criados depois das teorias de milhões de anos da terra.
 **Conclusão**
-Se os primeiros capítulos dei Gênesis não são a história verdadeira ao pé da letra, então a fé no restante da Bíblia fica abalada, incluindo os ensinamentos sobre a salvação e a moralidade.
+Se os primeiros capítulos de Gênesis não são a história verdadeira ao pé da letra, então a fé no restante da Bíblia fica abalada, incluindo os ensinamentos sobre a salvação e a moralidade.
+
 # Referências
  - ![[arquivos/Radioisotopes and the age of the earth.pdf]]

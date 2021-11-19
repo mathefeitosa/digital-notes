@@ -5,7 +5,7 @@ toc: true
 season: summer
 ---
 # Sobre
-Autor: [[Anthony Daniels]]
+Autor: [Theodore Dalrympe](Theodore%20Dalrympe)
 # Conteúdo
 # Notas
 ## Prefácio

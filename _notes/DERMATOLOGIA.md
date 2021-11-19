@@ -4,7 +4,6 @@ tags: [DERMATOLOGIA, MEDICINA]
 toc: true
 season: winter
 ---
-
 # DERMATOLOGIA
 
 # LESÕES ELEMENTARES / EFLORESCÊNCIAS

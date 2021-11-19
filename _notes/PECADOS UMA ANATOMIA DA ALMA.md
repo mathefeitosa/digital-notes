@@ -28,8 +28,8 @@ Referência: [Pondé - Hotmart](https://pecadosumaanatomiadaalma.club.hotmart.co
 - Existem dois exemplos — Jacó e  Davi com Betsabá — que mostram que mesmo através do arrependimento do pecado e da admissão de sua situação pecadora consegue-se uma relação-relativamente íntima com Deus.
 - Não é porque a história começa com a punição em Adão e Eva que Deus faça o tempo inteiro um certo discernimento entre aqueles seres humanos que reconhecem a sua própria condição — de pecador — e aqueles que vivem em uma negação contínua do pecado ou aqueles que embarcam numa espécie de viagem absolutamente pecadora o tempo inteiro insistindo no que a gente poderia chamar de direito ao pecado.
 - Na narrativa bíblica os pecados aparecem como padrões de comportamento.
-- A primeira tradução da [bíblia](notes/Bíblia.md) para o grego foi feita por 70 judeus estudiosos e é chamada de **septuaginta**.
-- A [bíblia](notes/Bíblia.md) foi escrita em **hebraico**, **aramaico** e **grego**.
+- A primeira tradução da [bíblia](../notes/BÍBLIA.md) para o grego foi feita por 70 judeus estudiosos e é chamada de **septuaginta**.
+- A [bíblia](../notes/BÍBLIA.md) foi escrita em **hebraico**, **aramaico** e **grego**.
 - **Hermenêutica**: parte filosófica que se utiliza dos diferentes níveis interpretativos de um texto.
 - Só os pecadores verão a Deus.
 - Eva deveria ser muito bonita, tentadora, porque Adão preferiu fazer o que ela disse à obedecer a Deus.
@@ -42,7 +42,7 @@ Referência: [Pondé - Hotmart](https://pecadosumaanatomiadaalma.club.hotmart.co
 - Filho de **Sete**, que era filho de Adão.
 - É o primeiro guardião dos animais.
 - Deus decide destruir os descendentes de Caim, pois eles tinham a vida pecaminosa (luxúria, violência, inveja etc).
-- O cristianismo sistematiza futuramente o que está exposto como pecado nas narrativas iniciais da [bíblia](notes/Bíblia.md), apresentado através do comportamento e da natureza humana.
+- O cristianismo sistematiza futuramente o que está exposto como pecado nas narrativas iniciais da [bíblia](../notes/BÍBLIA.md), apresentado através do comportamento e da natureza humana.
 - Noé fica na arca durante 40 dias, que é o mesmo tempo que Jesus esteve no deserto jejuando (os católicos guardam 40 dias entre o carnaval e a semana santa - quaresma).
 - Aparentemente Deus tentou salvar a humanidade do pecado.
 - **Filhos de Noé**

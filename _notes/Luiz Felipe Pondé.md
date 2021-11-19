@@ -7,4 +7,4 @@ season: automn
 # Ideias
 # Feitos
 # Cursos
-[notes/pecados-uma-anatomia-da-alma](notes/pecados-uma-anatomia-da-alma.md)
+[PECADOS UMA ANATOMIA DA ALMA](PECADOS%20UMA%20ANATOMIA%20DA%20ALMA.md)
