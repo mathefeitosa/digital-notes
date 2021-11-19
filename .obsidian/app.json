@@ -4,5 +4,7 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "assets/img",
   "promptDelete": false,
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

@@ -1,54 +1,46 @@
 ---
-title: Dermatologia
-tags: [dermatologia, medicina]
+title: DERMATOLOGIA
+tags: [DERMATOLOGIA, MEDICINA]
 toc: false
 season: winter
 ---
 
-# Dermatologia
+# DERMATOLOGIA
 
-# Lesões elementares / eflorescências
-São padrões de alteração nom tegumento cujo reconhecimento possibilita a construção de hipóteses diagnósticas.
-Robert William, em 1808, agrupou as eflorescências em oito itens:
-- Pápula
-- Escama
-- Exantema
-- Bolha
-- Pústula
-- Vesícula
-- Tubérculo
-- Mácula
+# LESÕES ELEMENTARES / EFLORESCÊNCIAS
+SÃO PADRÕES DE ALTERAÇÃO NO TEGUMENTO CUJO RECONHECIMENTO POSSIBILITAA CONSTRUÇÃO DE HIPÓTESES DIAGNÓSTICAS.
+- ROBERT WILLIAM, EM 1808, AGRUPOU AS EFLORESCÊNCIAS EM 8 ITENS: **PÁPULA, ESCLAMA, EXANTEMA, BOLHA, PÚSTULA, VESÍCULA, TUBÉRCULO E MÁCULA**
 
 ## CLASSIFICAÇÃO DE AZULAY
 ### MODIFICAÇÃO DA COR (MANCHAS / MÁCULAS)
 - RELACIONADOS A MELANINA
 	- **HIPERCRÔMICA**
-	![[../assets/img/Pasted image 20211118211726.png]]
-	![[../assets/img/Pasted image 20211118211743.png]]
+	![../assets/img/Pasted image 20211118211726.png](../assets/img/Pasted%20image%2020211118211726.png)
+	![../assets/img/Pasted image 20211118211743.png](../assets/img/Pasted%20image%2020211118211743.png)
 	- **HIPOCRÔMICA**
-	![[../assets/img/Pasted image 20211118211207.png]]
-	![[../assets/img/Pasted image 20211118211242.png]]
+	![../assets/img/Pasted image 20211118211207.png](../assets/img/Pasted%20image%2020211118211207.png)
+	![../assets/img/Pasted image 20211118211242.png](../assets/img/Pasted%20image%2020211118211242.png)
 	- **ACRÔMICA**
 - **PIGMENTOS ORGÂNICOS AUMENTADOS**
 	- **BILIRRUBINA**
 	- **ALCAPTONA** ^[erro no metabolismo dos aminoácidos fenilalanina e tirosina devido à uma pequena mutação no DNA]
 	- **CAROTENOS** ^[XANTOCROMIA -> PELE AMARELADA. ACUMULAM PRINCIPALMENTE EM DIABÉTICOS QUE NÃO METABOLIZAM BEM A VITAMINA A]
-	![[../assets/img/Pasted image 20211118211832.png]]
+	![../assets/img/Pasted image 20211118211832.png](../assets/img/Pasted%20image%2020211118211832.png)
 - **PIGMENTOS EXÓGENOS**
 	- TATUAGEM, PRATA, CLOFAZIMINA ^[Remédio utilizado para tratar a Mycobacterium leprae.], ASFALTO, CORANTES, AMIODARONA ETC
-	![[../assets/img/Pasted image 20211118211908.png]]
+	![../assets/img/Pasted image 20211118211908.png](../assets/img/Pasted%20image%2020211118211908.png)
 
 ### PÚRPURA
 EXTRAVASAMENTO SANGUÍNEO, EM GERAL DÉRMICO, MENOS FREQUENTEMENTE HIPODÉRMICO, QUE LEVA A UMA MODIFICAÇÃO NA COR DA PELE, PODENDO IR DO VERMELHO AO AMARELADO E CASTANHO (COLORAÇÃO QUE DEPENDE DO TEMPO DE ESTRAVAZAMENTO).
 
 - **PETÉQUIA**: PÚRPURA PUNTIFORME (GERALMENTE MÚLTIPLA)
-![[../assets/img/Pasted image 20211118212438.png]]
+![../assets/img/Pasted image 20211118212438.png](../assets/img/Pasted%20image%2020211118212438.png)
 - **VÍBICE**: PÚRPURA LINEAR (SEMPRE TRAUMÁTICA)
-![[../assets/img/Pasted image 20211118212450.png]]
+![../assets/img/Pasted image 20211118212450.png](../assets/img/Pasted%20image%2020211118212450.png)
 - **EQUIMOSE**: LESÃO PURPÚRICA EM LENÇOL (DIMENSÕES MAIORES QUE AS ANTERIORES)
 - **HEMATOMA**: QUANDO HÁ GRANDES COLEÇÕES OU COM ABAULAMENTO LOCAL.
 
-![[../assets/img/Pasted image 20211118212647.png]]
+![../assets/img/Pasted image 20211118212647.png](../assets/img/Pasted%20image%2020211118212647.png)
 
 ### ALTERAÇÕES VASCULARES
 - **TRANSITÓRIAS**: FUNCIONAIS E SEMPRE PLANAS, NÃO APRESENTANDO RELEVO. 
