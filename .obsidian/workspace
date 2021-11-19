@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "season",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 135
+    "width": 394,
+    "collapsed": true
   },
   "right": {
     "id": "9267f1fb50f91c36",
@@ -89,14 +91,14 @@
   "active": "93ac9373b2fad0d1",
   "lastOpenFiles": [
     "_templates/Frontmatter.md",
+    "about.md",
+    "dates.md",
     "_notes/Untitled.md",
     "_notes/Actinomicose.md",
     "_notes/Homeomeria.md",
     "_notes/História Essencial da Filosofia.md",
     "_notes/Filosofia.md",
     "_notes/Filósofos Pré-socráticos.md",
-    "_notes/Dor Lombar.md",
-    "_notes/Cosmogonia.md",
-    "_notes/Arkhé.md"
+    "_notes/Dor Lombar.md"
   ]
 }
