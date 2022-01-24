@@ -6,5 +6,7 @@
   "promptDelete": false,
   "communityThemeSortOrder": "download",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
