@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Memory Palaces.md",
+            "file": "_notes/Do mil ao milhão - Thiago Nigro.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Memory Palaces.md",
+                "file": "_notes/Do mil ao milhão - Thiago Nigro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "6b808d41eecd2a3f",
   "lastOpenFiles": [
+    "_notes/Do mil ao milhão - Thiago Nigro.md",
+    "_notes/Leituras.md",
+    "_notes/Memórias.md",
     "_notes/Memory Palaces.md",
     "_notes/Untitled 3.md",
     "_notes/Untitled 2.md",
     "_notes/Actinomicose.md",
     "_notes/CÁLCULOS BILIARES.md",
     "_notes/Escherichia coli.md",
-    "_templates/Frontmatter.md",
-    "_notes/MANIFESTO COMUNISTA - KARL MARX E FRIEDRICH ENGELS.md",
-    "_notes/O HOMEM QUE CONFUNDIU SUA MULHER COM UM CHAPÉU - OLIVER SACKS.md",
-    "_notes/DICIONÁRIO PESSOAL.md"
+    "_templates/Frontmatter.md"
   ]
 }
