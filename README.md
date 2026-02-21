@@ -95,6 +95,31 @@ Delete what's inside [\_includes/feed.html](_includes/feed.html) and replace it 
 
 On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
 
+## Upload markdown notes from the website
+
+This fork now includes a direct upload UI in the header (`Upload`) that sends a `.md` file to a Netlify Function and commits it to `_notes/`.
+
+Required environment variables (Netlify site settings):
+
+- `GITHUB_TOKEN`: a token with permission to create/update files in your repository.
+- `GITHUB_OWNER`: your GitHub username or org.
+- `GITHUB_REPO`: repository name.
+- `GITHUB_BRANCH` (optional): defaults to `main`.
+- `UPLOAD_SECRET` (optional but recommended): shared secret required by the upload form.
+
+How it works:
+
+1. Open the site and click `Upload`.
+2. Choose a `.md` file.
+3. Fill optional metadata (`title`, `tags`, `season`) if your file has no front matter.
+4. Submit. The function creates/updates `_notes/<filename>.md` and returns the commit link.
+
+Notes:
+
+- If the markdown file already has YAML front matter, it is preserved.
+- If no front matter is present, the function creates one automatically.
+- Jekyll rebuild/deploy is still required before the new note appears publicly.
+
 ## What's coming?
 
 - [Open-transclude](https://subpixel.space/entries/open-transclude/) integration in the template, if possible.

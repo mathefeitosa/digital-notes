@@ -372,7 +372,7 @@ hr {
     padding-left: 15px;
 }
 
-.home, .categories, .rss, .projects {
+.home, .categories, .rss, .upload, .projects {
     padding-left: 5px;
     padding-right: 10px;
     padding-top: 5px;
@@ -389,11 +389,16 @@ hr {
     padding-right: 20px;
 }
 
+.upload {
+    padding-left: 14px;
+    padding-right: 20px;
+}
+
 .home {
     padding-right: 14px;
 }
 
-.home-p, .categories-p, .rss-p, .projects-p {
+.home-p, .categories-p, .rss-p, .upload-p, .projects-p {
    margin-top: auto;
    margin-left: auto;
    text-align: center;
@@ -403,7 +408,7 @@ hr {
    color: #555555; 
 }
 
-.icon-home, .icon-category, .icon-projects, .icon-rss {
+.icon-home, .icon-category, .icon-projects, .icon-rss, .icon-upload {
     margin-top: 7px;
     justify-content: center;
     stroke: #555555;
@@ -424,6 +429,25 @@ hr {
 
 .icon-rss {
     margin-left: 10%;
+}
+
+.icon-upload {
+    margin-left: 16%;
+}
+
+.upload-trigger {
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+}
+
+.upload-trigger:hover .upload-p,
+.upload-trigger:focus .upload-p,
+.upload-trigger:hover .icon-upload,
+.upload-trigger:focus .icon-upload {
+    color: #4183c4;
+    stroke: #4183c4;
 }
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
@@ -685,6 +709,145 @@ hr {
 
 #results-container {
     display: none;
+}
+
+.upload-note-modal {
+    position: fixed;
+    inset: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(20, 20, 20, 0.58);
+    z-index: 9999;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.upload-note-modal.is-open {
+    display: flex;
+}
+
+.upload-note-dialog {
+    width: min(580px, 100%);
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.upload-note-dialog h3 {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+.upload-note-description {
+    margin-top: 0;
+    margin-bottom: 18px;
+    font-size: 14px;
+}
+
+.upload-note-hint {
+    margin: -2px 0 2px 0;
+    font-size: 12px;
+    color: #666;
+}
+
+.upload-note-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    border: none;
+    background: transparent;
+    font-size: 26px;
+    line-height: 1;
+    color: #777;
+    cursor: pointer;
+}
+
+#upload-note-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#upload-note-form label {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: #444;
+}
+
+#upload-note-form input[type="file"],
+#upload-note-form input[type="text"],
+#upload-note-form input[type="password"],
+#upload-note-form select {
+    width: 100%;
+    border: 1px solid #d8d8d8;
+    border-radius: 6px;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #444;
+    background-color: #fff;
+    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.upload-note-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+.upload-note-checkbox input[type="checkbox"] {
+    margin: 0;
+}
+
+.upload-note-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 6px;
+}
+
+.upload-note-primary,
+.upload-note-secondary {
+    border: 1px solid #d4d4d4;
+    border-radius: 8px;
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.upload-note-primary {
+    background-color: #1f6feb;
+    border-color: #1f6feb;
+    color: #fff;
+}
+
+.upload-note-secondary {
+    background-color: #f7f7f7;
+    color: #444;
+}
+
+.upload-note-status {
+    min-height: 20px;
+    margin: 0;
+    font-size: 13px;
+}
+
+.upload-note-status.error {
+    color: #b93c3c;
+}
+
+.upload-note-status.success {
+    color: #1f7a32;
 }
 
 .back-icon {

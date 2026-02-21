@@ -1,3 +1,9 @@
+# Upload endpoint for markdown notes
+[[redirects]]
+  from = "/api/upload-note"
+  to = "/.netlify/functions/upload-note"
+  status = 200
+
 # The following redirect is intended for use with most SPAs that handle
 # routing internally.
 [[redirects]]
@@ -14,3 +20,6 @@
 [build]
   publish = "_site"
   command = "jekyll build"
+
+[functions]
+  directory = "netlify/functions"

@@ -50,6 +50,16 @@
             <p class="rss-p">RSS</p>
             </a>
         </div>
+        <div class="upload">
+            <button class="upload-trigger" id="open-upload-note-modal" type="button" aria-haspopup="dialog" aria-controls="upload-note-modal">
+                <svg class="icon-upload" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 16.5V4.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M7 9.5L12 4.5L17 9.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M21 16.5V19.5C21 20.0304 20.7893 20.5391 20.4142 20.9142C20.0391 21.2893 19.5304 21.5 19 21.5H5C4.46957 21.5 3.96086 21.2893 3.58579 20.9142C3.21071 20.5391 3 20.0304 3 19.5V16.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <p class="upload-p">Upload</p>
+            </button>
+        </div>
 
     </div>
     <div class="searchbar search-container">
@@ -58,7 +68,50 @@
         <input type="text" oninput="changeResultContainerDisp(this.value)" id="search-input" autocomplete="off" placeholder="Search..."/>
         <ul id="results-container"></ul>
     </div>
+    <div class="upload-note-modal" id="upload-note-modal" aria-hidden="true">
+        <div class="upload-note-dialog" role="dialog" aria-modal="true" aria-labelledby="upload-note-title">
+            <button type="button" class="upload-note-close" data-close-upload-modal aria-label="Fechar">×</button>
+            <h3 id="upload-note-title">Enviar nota em Markdown</h3>
+            <p class="upload-note-description">Envie um arquivo <code>.md</code> para salvar diretamente em <code>_notes/</code>.</p>
+            <form id="upload-note-form">
+                <label for="upload-note-file">Arquivo</label>
+                <input id="upload-note-file" type="file" accept=".md,text/markdown" required>
+
+                <label for="upload-note-filename">Nome do arquivo (opcional)</label>
+                <input id="upload-note-filename" type="text" placeholder="Ex.: Nova Nota.md">
+
+                <label for="upload-note-title-input">Título (opcional)</label>
+                <input id="upload-note-title-input" type="text" placeholder="Usado se o arquivo não tiver front matter">
+
+                <label for="upload-note-tags">Tags (opcional)</label>
+                <input id="upload-note-tags" type="text" placeholder="tag1, tag2, tag3">
+
+                <label for="upload-note-season">Season</label>
+                <select id="upload-note-season">
+                    <option value="summer">summer</option>
+                    <option value="spring">spring</option>
+                    <option value="winter">winter</option>
+                </select>
+                <p class="upload-note-hint"><code>title</code>, <code>tags</code> e <code>season</code> só são usados quando o arquivo não tiver front matter YAML.</p>
+
+                <label for="upload-note-secret">Chave de upload (opcional)</label>
+                <input id="upload-note-secret" type="password" autocomplete="off" placeholder="Necessária quando UPLOAD_SECRET estiver ativo">
+
+                <label class="upload-note-checkbox" for="upload-note-overwrite">
+                    <input id="upload-note-overwrite" type="checkbox">
+                    Sobrescrever se o arquivo já existir
+                </label>
+
+                <div class="upload-note-actions">
+                    <button type="button" class="upload-note-secondary" data-close-upload-modal>Cancelar</button>
+                    <button type="submit" class="upload-note-primary" id="upload-note-submit">Enviar</button>
+                </div>
+                <p class="upload-note-status" id="upload-note-status" role="status" aria-live="polite"></p>
+            </form>
+        </div>
+    </div>
     <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script src="/assets/js/note-upload.js"></script>
     <script>
         function changeResultContainerDisp(val) {
             if (val) {
