@@ -3,5 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.gems
+.bundle
 .idea
 .DS_Store

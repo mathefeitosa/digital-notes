@@ -93,7 +93,7 @@ Delete what's inside [\_includes/feed.html](_includes/feed.html) and replace it 
 {%- endif -%}
 ````
 
-On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
+On command-line, run `bundle install` once, then `bundle exec jekyll serve` and go to `localhost:4000`.
 
 ## Upload markdown notes from the website
 

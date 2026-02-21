@@ -19,7 +19,10 @@
 
 [build]
   publish = "_site"
-  command = "jekyll build"
+  command = "bundle config set path 'vendor/bundle' && bundle install && bundle exec jekyll build"
+
+[build.environment]
+  NODE_VERSION = "22"
 
 [functions]
   directory = "netlify/functions"
