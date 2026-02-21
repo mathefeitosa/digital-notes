@@ -23,6 +23,8 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  BUNDLER_VERSION = "2.5.23"
+  RUBY_VERSION = "3.4.8"
 
 [functions]
   directory = "netlify/functions"
